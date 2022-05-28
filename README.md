@@ -1,5 +1,5 @@
 # libft
-<p align="center">![libftlogo](https://user-images.githubusercontent.com/98752860/170806325-640e09e8-edac-47c5-ba0a-17eea7f1507a.png)
+<img src="./images/logohub.png" />
 
 <h1 align="center">Get Next Line (GNL) </h1>
 <p align="center">
