@@ -1,4 +1,3 @@
-# libft
 <img src="./images/logohub.png" />
 
 <h1 align="center">Libft </h1>
