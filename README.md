@@ -1,6 +1,6 @@
 # libft
-<p align="center">
-<img src="./images/libftlogo.png" />
+<p align="center">![libftlogo](https://user-images.githubusercontent.com/98752860/170806325-640e09e8-edac-47c5-ba0a-17eea7f1507a.png)
+
 <h1 align="center">Get Next Line (GNL) </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Mandatory-OK-brightgreen"/>
