@@ -1,7 +1,7 @@
 # libft
 <img src="./images/logohub.png" />
 
-<h1 align="center">Get Next Line (GNL) </h1>
+<h1 align="center">Libft </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Mandatory-OK-brightgreen"/>
 <img src="https://img.shields.io/badge/Bonus-KO-red"/>
